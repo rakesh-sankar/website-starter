@@ -1,0 +1,12 @@
+
+body {
+    font-family: 'Droid Sans', Arial, Sans-serif;
+}
+
+#top {
+    background: none repeat scroll 0 0 #eee;
+}
+
+#footer {
+    background: none repeat scroll 0 0 #aaa;
+}
